@@ -1,4 +1,4 @@
-## Welcome to  My GitHub Pages
+## TWO PIE
 
 This is just a simple web app which can searches for entered digit strings in the first 1 Million digits of Tau.
 
